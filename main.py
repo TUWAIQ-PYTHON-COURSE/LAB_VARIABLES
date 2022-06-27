@@ -15,8 +15,13 @@ def generator():
    yield "to"
 
    yield "Simplilearn"
-
+# this is a generator object
 gen_object = generator()
 
 print(type(gen_object))
-print(gen_object)
+# next is a func that 
+# return the next element for object
+
+print(next(gen_object))
+print(next(gen_object))
+print(next(gen_object))
