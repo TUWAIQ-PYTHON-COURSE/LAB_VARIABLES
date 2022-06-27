@@ -1,6 +1,3 @@
-from cgi import print_form
-
-
 my_team = "Liverpool"
 print(my_team)
 x = 10
