@@ -15,5 +15,7 @@ print(x1,x2)
 print(x3)
 '''The Yield keyword in Python is similar to a return statement used for returning values or objects in Python.'''
 print(type(x1)) 
+help("yield")
+
 
 
